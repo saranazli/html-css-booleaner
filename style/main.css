@@ -1,3 +1,8 @@
+body{
+  width: 90%;
+  margin: auto;
+}
+
 header{
   background-color: rgb(78, 160, 255);
   background-image: url(./img-css/pattern.png);
@@ -25,6 +30,39 @@ h1{
 #author{
   color: rgb(78, 160, 255);
 }
+
+.evidenziato{
+  background-color: yellow;
+}
+
+ul{
+  margin-left: 0%;
+  padding-left: 15px;
+}
+
+thead{
+  background-color: rgb(47, 175, 231);
+  color: white;
+}
+
+.riga-azzurra{
+  background-color: rgb(177, 229, 242);
+}
+
+table{
+  width: 100%;
+  font-weight: bold;
+}
+
+#sug-monito{
+  background-image: url(./img-css/monitor.jpg);
+}
+
+#sug-graph{
+  background-image: url(./img-css/graph.jpg);
+}
+
+
 
 
 
