@@ -54,18 +54,24 @@ table{
   font-weight: bold;
 }
 
-#sug-monito{
+.monito{
+  width: 250px;
+  height: 250px;
   background-image: url(./img-css/monitor.jpg);
 }
 
-#sug-graph{
+.graph{
+  margin-top: 5px;
+  width: 250px;
+  height: 250px;
   background-image: url(./img-css/graph.jpg);
 }
 
-
-
-
-
+.monito, .graph{
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
 
 
 
