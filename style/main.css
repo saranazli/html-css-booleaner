@@ -1,7 +1,11 @@
+/* predisposizione */
+
 body{
   width: 90%;
   margin: auto;
 }
+
+/* intestazione */
 
 header{
   background-color: rgb(78, 160, 255);
@@ -15,6 +19,8 @@ header{
   width: 200px;
   height: 150px;
 }
+
+/* titolo e foto */
 
 h1{
   width: 750px;
@@ -30,6 +36,8 @@ h1{
 #author{
   color: rgb(78, 160, 255);
 }
+
+/* contenuto centrale */
 
 .evidenziato{
   background-color: yellow;
@@ -53,6 +61,8 @@ table{
   width: 100%;
   font-weight: bold;
 }
+
+/*suggerimenti finali */
 
 .monito{
   width: 250px;
